@@ -3,7 +3,6 @@
   "type": "typo3-cms-extension",
   "description": "Slick Slider for TYPO3",
   "homepage": "https://taunus-webservices.de",
-  "minimum-stability": "stable",
   "license": [
     "GPL-2.0+"
   ],
