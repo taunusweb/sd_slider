@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.0">
+  <file source-language="en" datatype="plaintext" original="messages" date="2017-07-31T09:53:17+02:00" product-name="sd_slider">
+    <header/>
+    <body>
+      <trans-unit id="tx_sdslider_slide" xml:space="preserve">
+        <source>tx_sdslider_slide</source>
+      </trans-unit>
+      <trans-unit id="tx_sdslider_slide.tx_sdslider_slideimage" xml:space="preserve">
+        <source>Bild</source>
+      </trans-unit>
+      <trans-unit id="tx_sdslider_slide.tx_sdslider_slideheadline" xml:space="preserve">
+        <source>Headline</source>
+      </trans-unit>
+      <trans-unit id="tx_sdslider_slide.tx_sdslider_slidetext" xml:space="preserve">
+        <source>Text</source>
+      </trans-unit>
+      <trans-unit id="tt_content.tx_sdslider_slide" xml:space="preserve">
+        <source>Slide</source>
+      </trans-unit>
+      <trans-unit id="tt_content.CType.div._sdslider_" xml:space="preserve">
+        <source>sd_slider</source>
+      </trans-unit>
+      <trans-unit id="tt_content.CType.sdslider_slickslider" xml:space="preserve">
+        <source>Slick Slider</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

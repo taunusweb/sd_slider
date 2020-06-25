@@ -1,0 +1,28 @@
+{
+  "name": "taunusweb/sd_slider",
+  "type": "typo3-cms-extension",
+  "description": "Slick Slider for TYPO3",
+  "homepage": "https://taunus-webservices.de",
+  "minimum-stability": "stable",
+  "license": [
+    "GPL-2.0+"
+  ],
+  "keywords": [
+    "typo3",
+    "cms",
+    "taunusweb"
+  ],
+  "authors": [
+    {
+      "name": "Ulrich Diehl",
+      "email": "mail@taunus-webservices.de"
+    }
+  ],
+  "version": "0.5.0",
+  "replace": {
+    "sd_slider": "*"
+  },
+  "require": {
+    "typo3/cms-core": ">=8.7.0"
+  }
+}

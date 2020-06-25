@@ -1,0 +1,33 @@
+<f:if condition="{data_tx_sdslider_slide}">
+	<div class="sdSlider">
+        <f:for each="{data_tx_sdslider_slide}" as="data_item">
+			<div class="item">
+				<div class="aboveSlide">
+					<img src="/fileadmin/Layout/Slider_Startseite/Schraege_oben.png" />
+				</div>
+				<div class="underSlide">
+					<img src="/fileadmin/Layout/Slider_Startseite/Schraege_unten.png" />
+				</div>
+				<div class="openSlide">
+					<h3>&Ouml;ffnungszeiten:</h3>
+					<p>Montag bis Freitag<br />09:00 Uhr - 18:00 Uhr</p>
+					<p>Samstag<br />09:00 Uhr - 14:00 Uhr</p>
+					<p class="openTermine">Termine<br />au&szlig;erhalb der<br />Gesch&auml;ftszeiten<br />nach<br />Vereinbarung</p>
+				</div>
+        	<f:if condition="{data_item.data_tx_sdslider_slideimage}">
+				<f:for each="{data_item.data_tx_sdslider_slideimage}" as="file">
+						<f:image image="{file}" alt="{file.alternative}" title="{file.title}" />
+				</f:for>
+			</f:if>
+            <div class="sliderboxContainer">
+                <div class="sliderbox">
+
+				</div>
+			</div>
+			</div>
+		</f:for>
+	</div>
+</f:if>
+
+
+

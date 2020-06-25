@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.0">
+  <file source-language="en" datatype="plaintext" original="messages" date="2017-07-31T09:53:17+02:00" product-name="sd_slider">
+    <header/>
+    <body>
+      <trans-unit id="wizards.newContentElement.slickslider_title" xml:space="preserve">
+        <source>Slick Slider</source>
+      </trans-unit>
+      <trans-unit id="wizards.newContentElement.slickslider_description" xml:space="preserve">
+        <source>Slider für Bild und Infobox mit Headline und Text</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
